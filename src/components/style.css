@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+.invert-color {
+    filter: invert(1);
+}
+#home,#about,#academic,#admission,#faculty,#gallery,#contact{
+    overflow-x: hidden;
+}
